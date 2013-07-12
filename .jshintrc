@@ -1,5 +1,4 @@
  {
-     "es5": true,
      "curly": true,
      "strict": false,
      "onevar": false,

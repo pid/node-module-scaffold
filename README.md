@@ -37,7 +37,7 @@ $ npm test
 
 
 ## License
-[BSD](https://raw.github.com/pid/CHANGE_THIS/master/LICENCE)
+[BSD](https://raw.github.com/pid/CHANGE_THIS/master/LICENSE)
 
 The BSD 3-Clause License (BSD3)
 
